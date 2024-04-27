@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10+Charted&family=Yarndings+20&display=swap');
+
+.home-section {
+  background-color: white;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+}
+
+.contact-section {
+  background-color: white;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form-section {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  
+}
+
+.form-button {
+  background-color: red;
+  color: white;
+  height: 40px;
+  width: 70px;
+  border-style: none;
+  border-radius: 10px;
+}
+
+.notfound-section {
+  background-color: white;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.cake-emoji {
+  font-size: 70px;
+}
+
+h2 {
+  font-family: "Yarndings 20", system-ui;
+  font-weight: 500;
+  font-style: normal;
+
+  }
